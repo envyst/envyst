@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on self-improvement<br>👯 I’m looking to collaborate on any small project to express my skill<br>🤝 I’m looking for help, I need a job with a good career path<br>🌱 I’m currently learning Kubernetes, Grafana, Most Software Development Stack (FastAPI, etc)<br>💬 Ask me about IOT Development, Service and Maintenance<br>⚡ Proficient in IOT Related Stuff (LoRaWAN, MQTT, etc)
+🔭 I’m currently working on self-improvement<br>👯 I’m looking to collaborate on any small project to express my skill<br>🤝 I’m looking for help, I need a remote international job with a good career path<br>🌱 I’m currently learning Kubernetes, Grafana, Most Software Development Stack (FastAPI, etc)<br>💬 Ask me about IOT Development, Service and Maintenance<br>⚡ Proficient in IOT Related Stuff (LoRaWAN, MQTT, etc)
 
 
 # 💻 Tech Stack:
